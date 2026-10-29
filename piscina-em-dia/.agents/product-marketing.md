@@ -1,6 +1,6 @@
 # Product Marketing Context — Piscina em Dia
 
-*Document version: v3 · Last updated: 2026-10-29*
+*Document version: v4 · Last updated: 2026-10-29*
 
 > Every marketing skill reads this file before it asks questions.
 > Only facts confirmed by the owner or quoted from piscinaemdia.pt are recorded here.
@@ -64,7 +64,15 @@ Site wording: "Valores indicativos. O preço final fica fechado depois de vermos
 **Customer-voiced pains:** TO CONFIRM — gather from real customer conversations, reviews and enquiries.
 
 ## Competitive Landscape
-TO CONFIRM — do not name competitors until the owner confirms them or they are researched with sources.
+For internal analysis only — never name or criticise competitors in published content.
+
+**Direct (owner — the best-known pool companies in the area):**
+- Leiripiscinas
+- Fapiblue
+- Fapicentro
+
+How each falls short, services, prices, websites and reviews: TO CONFIRM — research with sources (competitor-profiling, seo-audit) before recording anything.
+**Secondary / indirect:** TO CONFIRM (e.g. gardeners or handymen who also clean pools, owners who do it themselves)
 
 ## Differentiation
 **Positioning (owner):** Professional, trustworthy, premium but accessible.
@@ -135,6 +143,7 @@ TO CONFIRM
 
 ## Changelog
 *Newest first. One line per revision: what changed and why.*
+- v4 (2026-10-29) — Owner named the best-known direct competitors: Leiripiscinas, Fapiblue, Fapicentro.
 - v3 (2026-10-29) — Owner confirmed target customers: private homes (main) and alojamento local properties.
 - v2 (2026-10-29) — Added plans, indicative prices, service area, visit routine, differentiators and voice examples from piscinaemdia.pt; owner confirmed winterization as a separately quoted service and the phone/WhatsApp number; logged website gaps.
 - v1 (2026-10-29) — Initial context from owner-supplied facts only; unknowns marked TO CONFIRM.
