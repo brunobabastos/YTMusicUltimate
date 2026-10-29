@@ -1,6 +1,6 @@
 # Product Marketing Context — Piscina em Dia
 
-*Document version: v2 · Last updated: 2026-10-29*
+*Document version: v3 · Last updated: 2026-10-29*
 
 > Every marketing skill reads this file before it asks questions.
 > Only facts confirmed by the owner or quoted from piscinaemdia.pt are recorded here.
@@ -52,8 +52,10 @@ Site wording: "Valores indicativos. O preço final fica fechado depois de vermos
 **Service area (site):** "Atuamos num raio de 15 km à volta de Leiria, sem custo extra de deslocação" — Leiria, Marinha Grande, Batalha, Pombal e arredores.
 
 ## Target Audience
-**Customer type:** TO CONFIRM (e.g. homeowners, holiday rentals, condominiums, hotels — confirm which apply)
-**Decision-makers:** TO CONFIRM
+**Customer type (owner):**
+1. Private homes (moradias / casas privadas) — the main segment.
+2. Holiday rentals (alojamento local) — pool maintenance for local-accommodation properties.
+**Decision-makers:** Homeowners; for alojamento local, the owner or property manager (TO CONFIRM which is more common)
 **Primary use case:** Keeping a pool clean and ready to use without doing the work themselves (inferred from the site headline — confirm with customer language).
 **Jobs to be done:** TO CONFIRM
 
@@ -133,5 +135,6 @@ TO CONFIRM
 
 ## Changelog
 *Newest first. One line per revision: what changed and why.*
+- v3 (2026-10-29) — Owner confirmed target customers: private homes (main) and alojamento local properties.
 - v2 (2026-10-29) — Added plans, indicative prices, service area, visit routine, differentiators and voice examples from piscinaemdia.pt; owner confirmed winterization as a separately quoted service and the phone/WhatsApp number; logged website gaps.
 - v1 (2026-10-29) — Initial context from owner-supplied facts only; unknowns marked TO CONFIRM.
