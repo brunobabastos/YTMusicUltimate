@@ -35,8 +35,8 @@ Site wording: "Valores indicativos. O preço final fica fechado depois de vermos
 | Swimming pool maintenance and cleaning | Recurring plan (see above) | owner, site |
 | Water treatment | Part of every maintenance visit | owner, site |
 | Green pool recovery | Always quoted separately. Includes: brushing and removing leaves, water analysis, appropriate treatments, vacuuming to waste (usually more than once), cleaning skimmers and pre-filter; sand replacement not mandatory but recommended when the filter has gone years without maintenance (sand compacts). Usually 3–4 days with several visits, sometimes longer. A maintenance plan is suggested afterwards. Owner has before/after photos of an indoor pool (use only with the pool owner's permission). | owner, site |
-| Winterization (invernagem) | Always quoted separately. Includes: deep clean, pre-filter, filter backwash, skimmers, waterline, chemical balance, winterizing product; pump set to 2–4 h/day. Pools with or without a cover. No photos yet. | owner — page /preparacao-piscina-inverno (live) |
-| Summer preparation (preparação da piscina para o verão) | Included only for customers on the year-round plan (ano todo); otherwise quoted separately | owner — **not yet on the site** |
+| Winterization (invernagem) | Included at no extra cost in the year-round plan (ano todo) (owner, 2026-10-30); otherwise quoted separately. Includes: deep clean, pre-filter, filter backwash, skimmers, waterline, chemical balance, winterizing product; pump set to 2–4 h/day. Pools with or without a cover. | owner — page /preparacao-piscina-inverno (live) |
+| Summer preparation (preparação da piscina para o verão) | Included only for customers on the year-round plan (ano todo); otherwise quoted separately. Draft step list on the page (cover, deep clean, waterline, skimmers and pre-filter, backwash, water level, chemical balance, pump on summer hours) awaits owner confirmation. | owner — page /preparacao-piscina-verao (PR #13 open, 2026-10-30) |
 
 ### What every visit includes (site, "Em cada visita")
 1. Limpeza da superfície — folhas, insetos, sujidade e linha de água.
@@ -112,7 +112,7 @@ TO CONFIRM
 **Customers:** TO CONFIRM
 **Google reviews (owner, 2026-10-30):** none yet; owner is starting to ask customers for reviews.
 **Testimonials:** TO CONFIRM — only use real, attributable reviews with the customer's permission.
-**Certifications (owner, 2026-10-30):** the owner (the technician) has a certified course in pool maintenance and in handling chemical products from the APP – Associação Portuguesa de Profissionais de Piscinas, and 4 years of experience in pool maintenance. Say "o nosso técnico" (one technician), not "todos os técnicos". The 4 years are personal experience, not years in business (the business is just starting). Insurance: TO CONFIRM.
+**Certifications (owner, 2026-10-30; owner does NOT want it on the website, use in the Google Business Profile only):** the owner (the technician) has a certified course in pool maintenance and in handling chemical products from the APP – Associação Portuguesa de Profissionais de Piscinas, and 4 years of experience in pool maintenance. Say "o nosso técnico" (one technician), not "todos os técnicos". The 4 years are personal experience, not years in business (the business is just starting). Insurance: TO CONFIRM.
 
 ## Goals
 **Main objectives (owner):**
@@ -183,6 +183,7 @@ TO CONFIRM
 
 ## Changelog
 *Newest first. One line per revision: what changed and why.*
+- v33 (2026-10-30) — Winterization included in year-round plan; summer page; certification not on site.
 - v32 (2026-10-30) — Owner's APP certification and 4 years of experience.
 - v31 (2026-10-30) — Homepage shortened, price section PR, reviews and GBP status, November reminder.
 - v30 (2026-10-30) — Pombal removed from the service area everywhere.
