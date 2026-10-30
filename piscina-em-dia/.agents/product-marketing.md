@@ -35,7 +35,7 @@ Site wording: "Valores indicativos. O preço final fica fechado depois de vermos
 | Swimming pool maintenance and cleaning | Recurring plan (see above) | owner, site |
 | Water treatment | Part of every maintenance visit | owner, site |
 | Green pool recovery | Always quoted separately. Includes: brushing and removing leaves, water analysis, appropriate treatments, vacuuming to waste (usually more than once), cleaning skimmers and pre-filter; sand replacement not mandatory but recommended when the filter has gone years without maintenance (sand compacts). Usually 3–4 days with several visits, sometimes longer. A maintenance plan is suggested afterwards. Owner has before/after photos of an indoor pool (use only with the pool owner's permission). | owner, site |
-| Winterization (invernagem) | Always quoted separately. Includes: deep clean, pre-filter, filter backwash, skimmers, waterline, chemical balance, winterizing product; pump set to 2–4 h/day. Pools with or without a cover. No photos yet. | owner — page /preparacao-piscina-inverno (PR open 2026-10-30) |
+| Winterization (invernagem) | Always quoted separately. Includes: deep clean, pre-filter, filter backwash, skimmers, waterline, chemical balance, winterizing product; pump set to 2–4 h/day. Pools with or without a cover. No photos yet. | owner — page /preparacao-piscina-inverno (live) |
 | Summer preparation (preparação da piscina para o verão) | Included only for customers on the year-round plan (ano todo); otherwise quoted separately | owner — **not yet on the site** |
 
 ### What every visit includes (site, "Em cada visita")
@@ -159,6 +159,7 @@ TO CONFIRM
 
 ### Website status (site, checked 2026-10-30)
 - Fixed: phone/WhatsApp shown in static HTML and contact section; winterization and summer preparation listed; monthly average corrected; meta description shortened; "Manutenção de piscinas em Leiria" above the H1; real 404 page; privacy policy at /privacidade with a link under the quote form and in the footer.
+- Pages live (checked in repo 2026-10-30): / (home), /recuperacao-piscina-verde (with real before/after photos), /preparacao-piscina-inverno, /privacidade; all in sitemap.xml. Check the site repo before proposing new pages.
 - Hosting: Cloudflare Pages project `piscinaemdia-site`, deployed from GitHub repo brunobabastos/piscinaemdia-site (branch main), since 2026-10-30. Changes go through pull requests; the old direct-upload project `piscinaemdia` (cristalys.pages.dev) no longer has the domain.
 
 ## Agent Operating Boundaries
@@ -177,6 +178,7 @@ TO CONFIRM
 
 ## Changelog
 *Newest first. One line per revision: what changed and why.*
+- v27 (2026-10-30) — Recorded the site's live pages.
 - v26 (2026-10-30) — Google Business Profile is verified; first metrics and improvement draft.
 - v25 (2026-10-30) — Always use the owner's test kit reference photos; reference index added.
 - v24 (2026-10-30) — Scheduled carousels updated with AI step photos and AI label.
