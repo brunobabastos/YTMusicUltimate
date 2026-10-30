@@ -1,6 +1,6 @@
 # Product Marketing Context — Piscina em Dia
 
-*Document version: v13 · Last updated: 2026-10-30*
+*Document version: v14 · Last updated: 2026-10-30*
 
 > Every marketing skill reads this file before it asks questions.
 > Only facts confirmed by the owner or quoted from piscinaemdia.pt are recorded here.
@@ -136,6 +136,9 @@ TO CONFIRM
   - One Reel (38 s, opens on a logo card "Peça orçamento pelo link na bio"): 84 views, 65 viewers, 6 s average watch time, 83.3% early drop-off, 80.5% of views from the Reels tab, 3 likes, 1 comment, 1 follower.
   - Bio: "Manutenção de piscinas na região de Leiria. Limpeza, tratamento da água e acompanhamento semanal e quinzenal." Links: website + Google Maps profile. WhatsApp button active.
   - Metricool (connected 2026-10-30, brand id 7753492, timezone Europe/Lisbon): all 9 carousels and the Reel were published on 2026-10-29 between 12:05 and 12:22, so the account's content is one day old. "4 erros" carousel was published twice (12:14 and 12:15, same caption). "Limpeza de piscinas em Leiria e arredores" carousel: 373 views, 276 reach (outlier); other carousels 5–30 views, 2–7 reach, almost no interactions. Reel: 82 views, 65 reach, 6.6 s average watch, 15.4% view rate (>3 s), 6 interactions, 2 shares.
+- Website analytics (checked 2026-10-30):
+  - Metricool web tracker live on all public pages since 2026-10-30 (PR #5), skipped on client links #/p/<token>. No data yet on 2026-10-30 (Metricool needs ~24 h).
+  - Cloudflare (connector "Estatísticas cloudflare", read via API; zone piscinaemdia.pt, Free plan; Web Analytics site created 2026-10-18). Web Analytics is sampled (counts in steps of 10): 240 visits from 18–30 Oct, all from the US with no referrer, mostly random paths such as /royceinvest or /sabrinacarpenter, i.e. automated scanners hitting the old soft-404. No measurable human traffic from Portugal yet. Zone-level request counts (30–2,600 requests/day) are mostly bots and must not be read as visitors.
 - Video rules (owner): face never appears; only hands and the work shirt. Owner plans real cinematic videos of each visit, with editing by the agent (future).
 - Pool construction: not offered yet; owner says probably in the future. Do not advertise it until confirmed.
 - Livro de Reclamações Eletrónico: owner has chosen not to set it up yet (business just starting). Agent flagged on 2026-10-30 that it is likely a legal requirement for consumer-facing services in Portugal; owner to confirm with an accountant.
@@ -157,6 +160,7 @@ TO CONFIRM
 
 ## Changelog
 *Newest first. One line per revision: what changed and why.*
+- v14 (2026-10-30) — Website analytics status: Metricool tracker live; Cloudflare data is bot traffic, no measurable human visits yet.
 - v13 (2026-10-30) — Metricool data: all content posted on one day, duplicate carousel, per-post reach.
 - v12 (2026-10-30) — Instagram snapshot and Reel stats; no-face video rule; construction not offered yet.
 - v11 (2026-10-30) — Added Instagram handle @piscinaemdia.pt.
