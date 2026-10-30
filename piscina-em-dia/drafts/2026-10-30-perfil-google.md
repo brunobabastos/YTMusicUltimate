@@ -8,14 +8,14 @@ Atenção: mudar o nome pode fazer o Google pedir nova verificação. Se preferi
 
 ## 2. Morada e zona de serviço
 Aparece "Amor, Leiria". Se os clientes não vão a essa morada, a morada deve ficar **oculta** e o perfil deve ter só a **zona de serviço**:
-Leiria, Marinha Grande, Batalha, Pombal.
+Leiria, Marinha Grande, Batalha.
 
 ## 3. Categorias
 - **Principal:** escreva "piscina" no campo da categoria e escolha a de limpeza ou manutenção de piscinas (por exemplo, "Serviço de limpeza de piscinas").
 - **Adicionais:** outras que descrevam o mesmo serviço, se existirem na lista. Não escolher lojas nem construção de piscinas (ainda não faz construção).
 
 ## 4. Descrição (máx. 750 caracteres)
-> A Piscina em Dia faz manutenção, limpeza e tratamento de piscinas em Leiria, Marinha Grande, Batalha, Pombal e arredores. Em cada visita limpamos a superfície e a linha de água, aspiramos o fundo, escovamos as paredes, esvaziamos os cestos dos skimmers e do pré-filtro, analisamos a água e acertamos os produtos para o volume da sua piscina. No fim, recebe no telemóvel o relatório da visita, com os valores medidos e fotos. Temos planos para o ano todo, só para a época alta (visita semanal) ou só para a época baixa (de 15 em 15 dias). Também recuperamos piscinas verdes e preparamos piscinas para o inverno. Até 15 km de Leiria não há custo de deslocação.
+> A Piscina em Dia faz manutenção, limpeza e tratamento de piscinas em Leiria, Marinha Grande, Batalha e arredores. Em cada visita limpamos a superfície e a linha de água, aspiramos o fundo, escovamos as paredes, esvaziamos os cestos dos skimmers e do pré-filtro, analisamos a água e acertamos os produtos para o volume da sua piscina. No fim, recebe no telemóvel o relatório da visita, com os valores medidos e fotos. Temos planos para o ano todo, só para a época alta (visita semanal) ou só para a época baixa (de 15 em 15 dias). Também recuperamos piscinas verdes e preparamos piscinas para o inverno. Até 15 km de Leiria não há custo de deslocação.
 
 ## 5. Serviços (com descrição curta)
 | Serviço | Descrição |

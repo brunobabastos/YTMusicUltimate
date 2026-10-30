@@ -14,7 +14,7 @@
 3. **Reels curtos:** 12 a 20 segundos.
 4. **Imagens de IA só como ilustração** em carrosséis de dicas. Nunca em "antes e depois", "resultados" ou a fingir um trabalho feito.
 5. **Rosto nunca aparece:** só mãos e a camisola de trabalho.
-6. **Marcar sempre a localização** (Leiria, Marinha Grande, Batalha ou Pombal).
+6. **Marcar sempre a localização** (Leiria, Marinha Grande ou Batalha).
 
 ## Pilares
 | Pilar | Peso | Exemplos |
@@ -49,7 +49,7 @@
 **Legenda:**
 > Esta piscina estava verde, com algas e folhas acumuladas. Escovámos, analisámos a água, fizemos os tratamentos e aspirámos para o esgoto mais do que uma vez. Normalmente fica azul em 3 a 4 dias.
 >
-> A sua piscina está verde? Envie-nos uma foto por WhatsApp e dizemos-lhe o que é preciso. Leiria, Marinha Grande, Batalha, Pombal e arredores.
+> A sua piscina está verde? Envie-nos uma foto por WhatsApp e dizemos-lhe o que é preciso. Leiria, Marinha Grande, Batalha e arredores.
 >
 > #piscinaverde #manutencaodepiscinas #leiria #marinhagrande #piscinas
 
@@ -105,7 +105,7 @@ Com isto há material para vários Reels por visita. O primeiro e o último plan
 
 ## Perfil
 **Bio sugerida** (145 caracteres):
-> Manutenção de piscinas em Leiria, Marinha Grande, Batalha e Pombal.
+> Manutenção de piscinas em Leiria, Marinha Grande e Batalha.
 > Visitas semanais e quinzenais · Piscinas verdes · Invernagem
 > Peça orçamento ⬇
 

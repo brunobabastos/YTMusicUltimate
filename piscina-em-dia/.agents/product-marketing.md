@@ -11,7 +11,7 @@
 **Company:** Piscina em Dia
 **Website:** https://piscinaemdia.pt
 **One-liner (site headline):** "Piscina pronta a usar, semana após semana."
-**What it does (site meta description):** "Manutenção, limpeza e tratamento de piscinas em Leiria, Marinha Grande, Batalha e Pombal. Visitas regulares e relatório de cada visita no telemóvel."
+**What it does (site meta description):** "Manutenção, limpeza e tratamento de piscinas em Leiria, Marinha Grande e Batalha. Relatório de cada visita no telemóvel. Peça orçamento." (after PR #10)
 **Product category:** Local service business — swimming pool maintenance and cleaning
 **Product type:** Service (local, on-site)
 **Business model (site):** Recurring maintenance plans, plus separately quoted one-off jobs.
@@ -50,7 +50,7 @@ Site wording: "Valores indicativos. O preço final fica fechado depois de vermos
 
 ## Market
 **Primary market:** Leiria, Portugal
-**Service area (site):** "Atuamos num raio de 15 km à volta de Leiria, sem custo extra de deslocação" — Leiria, Marinha Grande, Batalha, Pombal e arredores.
+**Service area (site):** "Atuamos num raio de 15 km à volta de Leiria, sem custo extra de deslocação" — Leiria, Marinha Grande, Batalha e arredores. Pombal removed by the owner on 2026-10-30.
 
 ## Target Audience
 **Customer type (owner):**
@@ -160,7 +160,7 @@ TO CONFIRM
 ### Website status (site, checked 2026-10-30)
 - Fixed: phone/WhatsApp shown in static HTML and contact section; winterization and summer preparation listed; monthly average corrected; meta description shortened; "Manutenção de piscinas em Leiria" above the H1; real 404 page; privacy policy at /privacidade with a link under the quote form and in the footer.
 - Pages live (checked in repo 2026-10-30): / (home), /recuperacao-piscina-verde (with real before/after photos), /preparacao-piscina-inverno, /privacidade; all in sitemap.xml. Check the site repo before proposing new pages.
-- Site PRs (2026-10-30): #6 wording and #7 town pages (Marinha Grande, Batalha) merged by the owner. Open: #8 visitor origin appended to quote requests ("Origem: ..." in pedidos_orcamento.mensagem); #9 FAQ section + FAQPage schema + /llms.txt. Owner: no Pombal page (outside 15 km); whether to remove Pombal from the rest of the site and posts TO CONFIRM. Owner skipped recurring-customer messages and referral programme for now.
+- Site PRs (2026-10-30): #6 wording and #7 town pages (Marinha Grande, Batalha) merged by the owner. Open: #8 visitor origin appended to quote requests ("Origem: ..." in pedidos_orcamento.mensagem); #9 FAQ section + FAQPage schema + /llms.txt. Owner (2026-10-30): Pombal is no longer in the service area (outside 15 km); removed from the site (PR #10), the scheduled posts and the drafts. Service area: Leiria, Marinha Grande, Batalha and surroundings within 15 km. Owner skipped recurring-customer messages and referral programme for now.
 - Reminder: scheduled for 2027-05-03 to propose Google Ads for the summer season (GBP showed a 400 € new-advertiser credit offer).
 - Hosting: Cloudflare Pages project `piscinaemdia-site`, deployed from GitHub repo brunobabastos/piscinaemdia-site (branch main), since 2026-10-30. Changes go through pull requests; the old direct-upload project `piscinaemdia` (cristalys.pages.dev) no longer has the domain.
 
@@ -180,6 +180,7 @@ TO CONFIRM
 
 ## Changelog
 *Newest first. One line per revision: what changed and why.*
+- v30 (2026-10-30) — Pombal removed from the service area everywhere.
 - v29 (2026-10-30) — Lead origin and FAQ PRs; Google Ads reminder for May 2027.
 - v28 (2026-10-30) — Town pages PR and Pombal decision.
 - v27 (2026-10-30) — Recorded the site's live pages.
