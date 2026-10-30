@@ -147,6 +147,8 @@ TO CONFIRM
   - Pool accessories and equipment must look like real, existing products (skimmers, nets, poles, brushes, test kits, covers, pumps, filters). No made-up or distorted gear; check every image and discard any with invented accessories.
   - Equipment the owner uses on visits (owner, 2026-10-30): bottom leaf net (camaroeiro de fundo), brush, manual wheeled vacuum head on telescopic pole, test kits with drops and strips (incl. OTO/Phenol Red), chlorine tablets in a floating dispenser.
   - Skimmers (liner or concrete pools): a rectangular mouth opening in the pool side wall at water level; behind it, only a round or square lid flush in the paving. Never draw a skimmer as a box on the coping or a floating object.
+  - Owner corrections (2026-10-30): the manual vacuum hose plugs into a wall suction fitting (tomada de aspiração), never into the skimmer; when vacuuming, show fine brown-black dust on the floor (not leaves). Skimmers usually come in pairs, side by side. The pool brush is only for floor and walls; the waterline is cleaned with a white melamine sponge (esponja mágica). Machine rooms have PVC ball valves (válvulas de esfera) on the pipes. Pump control panels are proper ones: enclosure with RCD, breaker, contactor, thermal relay, timer and manual/0/auto selector. Water testing uses both the drop kit (OTO + Phenol Red comparator) and 4-in-1 test strips (free chlorine, pH, alkalinity, stabilizer).
+  - More reference photos: referencias/kit-gotas-oto-phenol.jpg, referencias/tiras-4em1-frente.jpg, referencias/tiras-4em1-verso.jpg (product photos; for image generation only, never publish; generated images must not show brand names).
   - Winter covers: depend on the client; when there is one, it is usually a tarp (lona) held with elastic cords.
   - Reference photo of real skimmer, lid, vacuum head and floating dispenser: referencias/skimmer-e-acessorios-reais.png (owner photo, a client's pool; internal reference for image generation only, never publish). Passing it to Gemini as a reference image gives accurate accessories.
 - Video rules (owner): face never appears; only hands and the work shirt. Owner plans real cinematic videos of each visit, with editing by the agent (future).
@@ -172,6 +174,7 @@ TO CONFIRM
 
 ## Changelog
 *Newest first. One line per revision: what changed and why.*
+- v22 (2026-10-30) — Owner corrections on vacuum, waterline, machine room, control panel and test kits; kit reference photos.
 - v21 (2026-10-30) — Learning on AI image prompts for pool accessories.
 - v20 (2026-10-30) — Owner's equipment list, real skimmer layout, winter cover type and reference photo for image generation.
 - v19 (2026-10-30) — Gemini billing active and image generation working; owner image rules: frost not snow, real accessories only.
