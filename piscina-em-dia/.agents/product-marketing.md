@@ -148,6 +148,7 @@ TO CONFIRM
   - Equipment the owner uses on visits (owner, 2026-10-30): bottom leaf net (camaroeiro de fundo), brush, manual wheeled vacuum head on telescopic pole, test kits with drops and strips (incl. OTO/Phenol Red), chlorine tablets in a floating dispenser.
   - Skimmers (liner or concrete pools): a rectangular mouth opening in the pool side wall at water level; behind it, only a round or square lid flush in the paving. Never draw a skimmer as a box on the coping or a floating object.
   - Owner corrections (2026-10-30): the manual vacuum hose plugs into a wall suction fitting (tomada de aspiração), never into the skimmer; when vacuuming, show fine brown-black dust on the floor (not leaves). Skimmers usually come in pairs, side by side. The pool brush is only for floor and walls; the waterline is cleaned with a white melamine sponge (esponja mágica). Machine rooms have PVC ball valves (válvulas de esfera) on the pipes. Pump control panels are proper ones: enclosure with RCD, breaker, contactor, thermal relay, timer and manual/0/auto selector. Water testing uses both the drop kit (OTO + Phenol Red comparator) and 4-in-1 test strips (free chlorine, pH, alkalinity, stabilizer).
+  - Owner rule (2026-10-30): whenever an image shows water testing, ALWAYS pass all three kit reference photos (drop kit + both strip photos) so the kits look the same in every image. Reference index: referencias/README.md.
   - More reference photos: referencias/kit-gotas-oto-phenol.jpg, referencias/tiras-4em1-frente.jpg, referencias/tiras-4em1-verso.jpg (product photos; for image generation only, never publish; generated images must not show brand names).
   - Winter covers: depend on the client; when there is one, it is usually a tarp (lona) held with elastic cords.
   - Reference photo of real skimmer, lid, vacuum head and floating dispenser: referencias/skimmer-e-acessorios-reais.png (owner photo, a client's pool; internal reference for image generation only, never publish). Passing it to Gemini as a reference image gives accurate accessories.
@@ -176,6 +177,7 @@ TO CONFIRM
 
 ## Changelog
 *Newest first. One line per revision: what changed and why.*
+- v25 (2026-10-30) — Always use the owner's test kit reference photos; reference index added.
 - v24 (2026-10-30) — Scheduled carousels updated with AI step photos and AI label.
 - v23 (2026-10-30) — Second owner review of AI images (vacuuming posture, hose fitting, extra arms).
 - v22 (2026-10-30) — Owner corrections on vacuum, waterline, machine room, control panel and test kits; kit reference photos.
