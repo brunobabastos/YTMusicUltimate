@@ -145,6 +145,10 @@ TO CONFIRM
 - Image rules (owner, 2026-10-30):
   - Leiria has no snow, only frost (geada). Never show snow; winter scenes show frost, fog, wet stone, fallen leaves.
   - Pool accessories and equipment must look like real, existing products (skimmers, nets, poles, brushes, test kits, covers, pumps, filters). No made-up or distorted gear; check every image and discard any with invented accessories.
+  - Equipment the owner uses on visits (owner, 2026-10-30): bottom leaf net (camaroeiro de fundo), brush, manual wheeled vacuum head on telescopic pole, test kits with drops and strips (incl. OTO/Phenol Red), chlorine tablets in a floating dispenser.
+  - Skimmers (liner or concrete pools): a rectangular mouth opening in the pool side wall at water level; behind it, only a round or square lid flush in the paving. Never draw a skimmer as a box on the coping or a floating object.
+  - Winter covers: depend on the client; when there is one, it is usually a tarp (lona) held with elastic cords.
+  - Reference photo of real skimmer, lid, vacuum head and floating dispenser: referencias/skimmer-e-acessorios-reais.png (owner photo, a client's pool; internal reference for image generation only, never publish). Passing it to Gemini as a reference image gives accurate accessories.
 - Video rules (owner): face never appears; only hands and the work shirt. Owner plans real cinematic videos of each visit, with editing by the agent (future).
 - Pool construction: not offered yet; owner says probably in the future. Do not advertise it until confirmed.
 - Livro de Reclamações Eletrónico: owner has chosen not to set it up yet (business just starting). Agent flagged on 2026-10-30 that it is likely a legal requirement for consumer-facing services in Portugal; owner to confirm with an accountant.
@@ -168,6 +172,7 @@ TO CONFIRM
 
 ## Changelog
 *Newest first. One line per revision: what changed and why.*
+- v20 (2026-10-30) — Owner's equipment list, real skimmer layout, winter cover type and reference photo for image generation.
 - v19 (2026-10-30) — Gemini billing active and image generation working; owner image rules: frost not snow, real accessories only.
 - v18 (2026-10-30) — Gemini API key set up; image generation needs billing.
 - v17 (2026-10-30) — Facebook page and Google Business Profile connected in Metricool; Instagram temporary block noted.
