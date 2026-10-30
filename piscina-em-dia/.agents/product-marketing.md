@@ -112,7 +112,7 @@ TO CONFIRM
 **Customers:** TO CONFIRM
 **Google reviews (owner, 2026-10-30):** none yet; owner is starting to ask customers for reviews.
 **Testimonials:** TO CONFIRM — only use real, attributable reviews with the customer's permission.
-**Certifications / insurance / years in business:** TO CONFIRM — never state these without confirmation.
+**Certifications (owner, 2026-10-30):** the owner (the technician) has a certified course in pool maintenance and in handling chemical products from the APP – Associação Portuguesa de Profissionais de Piscinas, and 4 years of experience in pool maintenance. Say "o nosso técnico" (one technician), not "todos os técnicos". The 4 years are personal experience, not years in business (the business is just starting). Insurance: TO CONFIRM.
 
 ## Goals
 **Main objectives (owner):**
@@ -183,6 +183,7 @@ TO CONFIRM
 
 ## Changelog
 *Newest first. One line per revision: what changed and why.*
+- v32 (2026-10-30) — Owner's APP certification and 4 years of experience.
 - v31 (2026-10-30) — Homepage shortened, price section PR, reviews and GBP status, November reminder.
 - v30 (2026-10-30) — Pombal removed from the service area everywhere.
 - v29 (2026-10-30) — Lead origin and FAQ PRs; Google Ads reminder for May 2027.

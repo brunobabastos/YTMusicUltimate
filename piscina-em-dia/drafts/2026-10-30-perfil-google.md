@@ -15,7 +15,7 @@ Leiria, Marinha Grande, Batalha.
 - **Adicionais:** outras que descrevam o mesmo serviço, se existirem na lista. Não escolher lojas nem construção de piscinas (ainda não faz construção).
 
 ## 4. Descrição (máx. 750 caracteres)
-> A Piscina em Dia faz manutenção, limpeza e tratamento de piscinas em Leiria, Marinha Grande, Batalha e arredores. Em cada visita limpamos a superfície e a linha de água, aspiramos o fundo, escovamos as paredes, esvaziamos os cestos dos skimmers e do pré-filtro, analisamos a água e acertamos os produtos para o volume da sua piscina. No fim, recebe no telemóvel o relatório da visita, com os valores medidos e fotos. Temos planos para o ano todo, só para a época alta (visita semanal) ou só para a época baixa (de 15 em 15 dias). Também recuperamos piscinas verdes e preparamos piscinas para o inverno. Até 15 km de Leiria não há custo de deslocação.
+> A Piscina em Dia faz manutenção, limpeza e tratamento de piscinas em Leiria, Marinha Grande, Batalha e arredores. O nosso técnico tem curso certificado de manutenção de piscinas e de manuseamento de produtos químicos pela APP – Associação Portuguesa de Profissionais de Piscinas, e 4 anos de experiência. Em cada visita limpamos a superfície e a linha de água, aspiramos o fundo, escovamos as paredes, limpamos skimmers e pré-filtro, analisamos a água e acertamos os produtos para o volume da piscina. Recebe no telemóvel o relatório de cada visita, com valores medidos e fotos. Planos para o ano todo, só época alta ou só época baixa. Também recuperamos piscinas verdes e preparamos piscinas para o inverno.
 
 ## 5. Serviços (com descrição curta)
 | Serviço | Descrição |
