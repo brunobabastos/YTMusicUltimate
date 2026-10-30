@@ -1,6 +1,6 @@
 # Product Marketing Context — Piscina em Dia
 
-*Document version: v7 · Last updated: 2026-10-30*
+*Document version: v8 · Last updated: 2026-10-30*
 
 > Every marketing skill reads this file before it asks questions.
 > Only facts confirmed by the owner or quoted from piscinaemdia.pt are recorded here.
@@ -132,10 +132,10 @@ TO CONFIRM
 - Google Search Console: set up by the owner. The agent has no access to it.
 - Livro de Reclamações Eletrónico: owner has chosen not to set it up yet (business just starting). Agent flagged on 2026-10-30 that it is likely a legal requirement for consumer-facing services in Portugal; owner to confirm with an accountant.
 
-### Website gaps noted 2026-10-29 (site — for cro / seo-audit; not fixed)
-- Winterization and summer preparation are not mentioned on the site (site change requested 2026-10-30).
-- Phone and WhatsApp are not shown on the site: the contact fields in the page's CONFIG block are empty, and the "Contacto" menu link goes to the price/quote section.
-- For 30 a 60 m³, the page's static text says "80–105 € por mês" on average, while the price calculator computes 80–108 €.
+### Website status (site, checked 2026-10-30)
+- Fixed: phone/WhatsApp shown in static HTML and contact section; winterization and summer preparation listed; monthly average corrected; meta description shortened; "Manutenção de piscinas em Leiria" above the H1; real 404 page; privacy policy at /privacidade with a link under the quote form and in the footer.
+- Open: the privacy page's canonical, sitemap entry and links use /privacidade.html, which redirects (308) to /privacidade.
+- Hosting appears to be Cloudflare Pages (".html" URLs redirect to clean URLs). Site code is edited in the owner's Claude chat; it is not in a GitHub repository the agent can access.
 
 ## Agent Operating Boundaries
 **Agent may:** research, analyse, compare, draft, recommend, and save drafts in this workspace.
@@ -150,6 +150,7 @@ TO CONFIRM
 
 ## Changelog
 *Newest first. One line per revision: what changed and why.*
+- v8 (2026-10-30) — Website gaps fixed by the owner and verified on the live site; one canonical/redirect issue left open.
 - v7 (2026-10-30) — Recorded account status: no Google reviews yet, Business Profile exists but not on Maps, Search Console set up, no Livro de Reclamações yet.
 - v6 (2026-10-30) — Owner: summer preparation is included only with the year-round plan; otherwise quoted separately.
 - v5 (2026-10-30) — Owner added summer preparation (preparação para o verão) as a separate service.
