@@ -164,6 +164,7 @@ TO CONFIRM
 - Site PRs merged 2026-10-30: #8 lead origin, #9 FAQ + llms.txt, #10 Pombal removed, #11 shorter homepage (price strip, auto carousel for visit steps, no map). Open: #12 compact price section (form fields open on demand).
 - Owner (2026-10-30): already asking customers for Google reviews himself; removed "Amor" from the GBP service area; real photos/videos from visits will take a while.
 - Reminder: scheduled for 2026-11-08 to prepare posts after 11 Nov (nothing scheduled after that date).
+- Leads (owner, 2026-10-30): quote requests from the site form are saved in Supabase (pedidos_orcamento) and the owner sees them in his own admin panel (Orçamentos section); works fine. Each request includes "Origem: ..." (PR #8). WhatsApp and phone contacts are not tracked.
 - Reminder: scheduled for 2027-05-03 to propose Google Ads for the summer season (GBP showed a 400 € new-advertiser credit offer).
 - Hosting: Cloudflare Pages project `piscinaemdia-site`, deployed from GitHub repo brunobabastos/piscinaemdia-site (branch main), since 2026-10-30. Changes go through pull requests; the old direct-upload project `piscinaemdia` (cristalys.pages.dev) no longer has the domain.
 
@@ -183,6 +184,7 @@ TO CONFIRM
 
 ## Changelog
 *Newest first. One line per revision: what changed and why.*
+- v34 (2026-10-30) — Leads: owner sees quote requests in his admin panel.
 - v33 (2026-10-30) — Winterization included in year-round plan; summer page; certification not on site.
 - v32 (2026-10-30) — Owner's APP certification and 4 years of experience.
 - v31 (2026-10-30) — Homepage shortened, price section PR, reviews and GBP status, November reminder.
