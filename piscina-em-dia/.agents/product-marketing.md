@@ -168,10 +168,11 @@ TO CONFIRM
 *Decisions and tested lessons. Newest first. Keep it to about 20 active entries.*
 | Date | Learning | Evidence | Applies to | Status |
 |------|----------|----------|------------|--------|
-| | | | | |
+| 2026-10-30 | AI images: pass the owner's reference photo for skimmers, vacuum and dispenser; ask for one simple accessory per image; a manual vacuum head must show its hose going to the skimmer; with a reference image Gemini tends to copy its other objects (duplicate lids), so name the objects to copy and forbid the rest; prefer one hand in frame | Winter carousel, 2026-10-30: 3 of 7 step photos needed a second try (no hose, two lids, odd hands) | Image generation | Active |
 
 ## Changelog
 *Newest first. One line per revision: what changed and why.*
+- v21 (2026-10-30) — Learning on AI image prompts for pool accessories.
 - v20 (2026-10-30) — Owner's equipment list, real skimmer layout, winter cover type and reference photo for image generation.
 - v19 (2026-10-30) — Gemini billing active and image generation working; owner image rules: frost not snow, real accessories only.
 - v18 (2026-10-30) — Gemini API key set up; image generation needs billing.
