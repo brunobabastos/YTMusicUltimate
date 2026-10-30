@@ -1,6 +1,6 @@
 # Product Marketing Context — Piscina em Dia
 
-*Document version: v14 · Last updated: 2026-10-30*
+*Document version: v15 · Last updated: 2026-10-30*
 
 > Every marketing skill reads this file before it asks questions.
 > Only facts confirmed by the owner or quoted from piscinaemdia.pt are recorded here.
@@ -149,6 +149,7 @@ TO CONFIRM
 
 ## Agent Operating Boundaries
 **Agent may:** research, analyse, compare, draft, recommend, and save drafts in this workspace.
+**Owner preference (2026-10-30):** whatever the agent can do itself, it does without asking the owner to do it (e.g. run checks, fetch data, launch helper sessions, prepare files, open PRs). Ask the owner only for things the agent cannot do (account access, real-world facts, photos) or that are irreversible/public (see below).
 **Agent may not (without explicit owner approval):** publish or schedule any content, send emails or messages, launch, pause or change ads or budgets, edit tracking, or change the website.
 **Agent must not:** invent company facts (prices, reviews, certifications, service area, years in business, customer numbers), or claim access to accounts (Google Business Profile, Search Console, Analytics, Meta, Instagram, TikTok, YouTube, ad platforms) that it has not been given in the current session.
 
@@ -160,6 +161,7 @@ TO CONFIRM
 
 ## Changelog
 *Newest first. One line per revision: what changed and why.*
+- v15 (2026-10-30) — Owner: agent does everything it can itself instead of asking.
 - v14 (2026-10-30) — Website analytics status: Metricool tracker live; Cloudflare data is bot traffic, no measurable human visits yet.
 - v13 (2026-10-30) — Metricool data: all content posted on one day, duplicate carousel, per-post reach.
 - v12 (2026-10-30) — Instagram snapshot and Reel stats; no-face video rule; construction not offered yet.
