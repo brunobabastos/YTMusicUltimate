@@ -1,6 +1,6 @@
 # Product Marketing Context — Piscina em Dia
 
-*Document version: v10 · Last updated: 2026-10-30*
+*Document version: v11 · Last updated: 2026-10-30*
 
 > Every marketing skill reads this file before it asks questions.
 > Only facts confirmed by the owner or quoted from piscinaemdia.pt are recorded here.
@@ -130,6 +130,7 @@ TO CONFIRM
 ### Accounts and tools (owner, 2026-10-30)
 - Google Business Profile: exists (service-area business, customers served at home). Owner reports it does not show on Google Maps yet; verification status and service-area settings TO CONFIRM.
 - Google Search Console: set up by the owner. The agent has no access to it.
+- Instagram: @piscinaemdia.pt (owner). The agent has no access (no connector; instagram.com blocked in this environment); analysis only from screenshots the owner shares.
 - Livro de Reclamações Eletrónico: owner has chosen not to set it up yet (business just starting). Agent flagged on 2026-10-30 that it is likely a legal requirement for consumer-facing services in Portugal; owner to confirm with an accountant.
 
 ### Website status (site, checked 2026-10-30)
@@ -149,6 +150,7 @@ TO CONFIRM
 
 ## Changelog
 *Newest first. One line per revision: what changed and why.*
+- v11 (2026-10-30) — Added Instagram handle @piscinaemdia.pt.
 - v10 (2026-10-30) — Green pool recovery details and timing from owner; before/after photos available.
 - v9 (2026-10-30) — Winterization details from owner; site moved to GitHub + Cloudflare Pages; privacy URL issue resolved.
 - v8 (2026-10-30) — Website gaps fixed by the owner and verified on the live site; one canonical/redirect issue left open.
