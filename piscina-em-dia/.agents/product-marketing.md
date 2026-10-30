@@ -1,6 +1,6 @@
 # Product Marketing Context — Piscina em Dia
 
-*Document version: v8 · Last updated: 2026-10-30*
+*Document version: v9 · Last updated: 2026-10-30*
 
 > Every marketing skill reads this file before it asks questions.
 > Only facts confirmed by the owner or quoted from piscinaemdia.pt are recorded here.
@@ -35,7 +35,7 @@ Site wording: "Valores indicativos. O preço final fica fechado depois de vermos
 | Swimming pool maintenance and cleaning | Recurring plan (see above) | owner, site |
 | Water treatment | Part of every maintenance visit | owner, site |
 | Green pool recovery | Quoted separately | owner, site |
-| Winterization (invernagem) | Separate service, quoted separately | owner — **not yet on the site** |
+| Winterization (invernagem) | Always quoted separately. Includes: deep clean, pre-filter, filter backwash, skimmers, waterline, chemical balance, winterizing product; pump set to 2–4 h/day. Pools with or without a cover. No photos yet. | owner — page /preparacao-piscina-inverno (PR open 2026-10-30) |
 | Summer preparation (preparação da piscina para o verão) | Included only for customers on the year-round plan (ano todo); otherwise quoted separately | owner — **not yet on the site** |
 
 ### What every visit includes (site, "Em cada visita")
@@ -134,8 +134,7 @@ TO CONFIRM
 
 ### Website status (site, checked 2026-10-30)
 - Fixed: phone/WhatsApp shown in static HTML and contact section; winterization and summer preparation listed; monthly average corrected; meta description shortened; "Manutenção de piscinas em Leiria" above the H1; real 404 page; privacy policy at /privacidade with a link under the quote form and in the footer.
-- Open: the privacy page's canonical, sitemap entry and links use /privacidade.html, which redirects (308) to /privacidade.
-- Hosting appears to be Cloudflare Pages (".html" URLs redirect to clean URLs). Site code is edited in the owner's Claude chat; it is not in a GitHub repository the agent can access.
+- Hosting: Cloudflare Pages project `piscinaemdia-site`, deployed from GitHub repo brunobabastos/piscinaemdia-site (branch main), since 2026-10-30. Changes go through pull requests; the old direct-upload project `piscinaemdia` (cristalys.pages.dev) no longer has the domain.
 
 ## Agent Operating Boundaries
 **Agent may:** research, analyse, compare, draft, recommend, and save drafts in this workspace.
@@ -150,6 +149,7 @@ TO CONFIRM
 
 ## Changelog
 *Newest first. One line per revision: what changed and why.*
+- v9 (2026-10-30) — Winterization details from owner; site moved to GitHub + Cloudflare Pages; privacy URL issue resolved.
 - v8 (2026-10-30) — Website gaps fixed by the owner and verified on the live site; one canonical/redirect issue left open.
 - v7 (2026-10-30) — Recorded account status: no Google reviews yet, Business Profile exists but not on Maps, Search Console set up, no Livro de Reclamações yet.
 - v6 (2026-10-30) — Owner: summer preparation is included only with the year-round plan; otherwise quoted separately.
