@@ -160,6 +160,7 @@ TO CONFIRM
 ### Website status (site, checked 2026-10-30)
 - Fixed: phone/WhatsApp shown in static HTML and contact section; winterization and summer preparation listed; monthly average corrected; meta description shortened; "Manutenção de piscinas em Leiria" above the H1; real 404 page; privacy policy at /privacidade with a link under the quote form and in the footer.
 - Pages live (checked in repo 2026-10-30): / (home), /recuperacao-piscina-verde (with real before/after photos), /preparacao-piscina-inverno, /privacidade; all in sitemap.xml. Check the site repo before proposing new pages.
+- Open PRs (2026-10-30): #6 green pool page wording ("que a água precisa", owner's choice); #7 town pages /manutencao-piscinas-marinha-grande and /manutencao-piscinas-batalha. Owner: no Pombal page (Pombal is ~25–30 km from Leiria, outside the 15 km free-travel radius); whether to remove Pombal from the rest of the site and posts TO CONFIRM.
 - Hosting: Cloudflare Pages project `piscinaemdia-site`, deployed from GitHub repo brunobabastos/piscinaemdia-site (branch main), since 2026-10-30. Changes go through pull requests; the old direct-upload project `piscinaemdia` (cristalys.pages.dev) no longer has the domain.
 
 ## Agent Operating Boundaries
@@ -178,6 +179,7 @@ TO CONFIRM
 
 ## Changelog
 *Newest first. One line per revision: what changed and why.*
+- v28 (2026-10-30) — Town pages PR and Pombal decision.
 - v27 (2026-10-30) — Recorded the site's live pages.
 - v26 (2026-10-30) — Google Business Profile is verified; first metrics and improvement draft.
 - v25 (2026-10-30) — Always use the owner's test kit reference photos; reference index added.
