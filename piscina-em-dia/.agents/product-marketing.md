@@ -1,6 +1,6 @@
 # Product Marketing Context — Piscina em Dia
 
-*Document version: v9 · Last updated: 2026-10-30*
+*Document version: v10 · Last updated: 2026-10-30*
 
 > Every marketing skill reads this file before it asks questions.
 > Only facts confirmed by the owner or quoted from piscinaemdia.pt are recorded here.
@@ -34,7 +34,7 @@ Site wording: "Valores indicativos. O preço final fica fechado depois de vermos
 |---------|----------------|--------|
 | Swimming pool maintenance and cleaning | Recurring plan (see above) | owner, site |
 | Water treatment | Part of every maintenance visit | owner, site |
-| Green pool recovery | Quoted separately | owner, site |
+| Green pool recovery | Always quoted separately. Includes: brushing and removing leaves, water analysis, appropriate treatments, vacuuming to waste (usually more than once), cleaning skimmers and pre-filter; sand replacement not mandatory but recommended when the filter has gone years without maintenance (sand compacts). Usually 3–4 days with several visits, sometimes longer. A maintenance plan is suggested afterwards. Owner has before/after photos of an indoor pool (use only with the pool owner's permission). | owner, site |
 | Winterization (invernagem) | Always quoted separately. Includes: deep clean, pre-filter, filter backwash, skimmers, waterline, chemical balance, winterizing product; pump set to 2–4 h/day. Pools with or without a cover. No photos yet. | owner — page /preparacao-piscina-inverno (PR open 2026-10-30) |
 | Summer preparation (preparação da piscina para o verão) | Included only for customers on the year-round plan (ano todo); otherwise quoted separately | owner — **not yet on the site** |
 
@@ -149,6 +149,7 @@ TO CONFIRM
 
 ## Changelog
 *Newest first. One line per revision: what changed and why.*
+- v10 (2026-10-30) — Green pool recovery details and timing from owner; before/after photos available.
 - v9 (2026-10-30) — Winterization details from owner; site moved to GitHub + Cloudflare Pages; privacy URL issue resolved.
 - v8 (2026-10-30) — Website gaps fixed by the owner and verified on the live site; one canonical/redirect issue left open.
 - v7 (2026-10-30) — Recorded account status: no Google reviews yet, Business Profile exists but not on Maps, Search Console set up, no Livro de Reclamações yet.
