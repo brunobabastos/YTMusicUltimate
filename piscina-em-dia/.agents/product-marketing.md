@@ -1,6 +1,6 @@
 # Product Marketing Context — Piscina em Dia
 
-*Document version: v6 · Last updated: 2026-10-29*
+*Document version: v7 · Last updated: 2026-10-30*
 
 > Every marketing skill reads this file before it asks questions.
 > Only facts confirmed by the owner or quoted from piscinaemdia.pt are recorded here.
@@ -110,6 +110,7 @@ TO CONFIRM
 ## Proof Points
 **Metrics:** TO CONFIRM
 **Customers:** TO CONFIRM
+**Google reviews (owner, 2026-10-30):** none yet; owner is starting to ask customers for reviews.
 **Testimonials:** TO CONFIRM — only use real, attributable reviews with the customer's permission.
 **Certifications / insurance / years in business:** TO CONFIRM — never state these without confirmation.
 
@@ -125,6 +126,11 @@ TO CONFIRM
 - Quote form "Pedir orçamento" on the site (fields: nome, telefone, localidade).
 - Phone and WhatsApp (owner): **+351 928 310 814** (same number for both).
 **Current metrics:** TO CONFIRM
+
+### Accounts and tools (owner, 2026-10-30)
+- Google Business Profile: exists (service-area business, customers served at home). Owner reports it does not show on Google Maps yet; verification status and service-area settings TO CONFIRM.
+- Google Search Console: set up by the owner. The agent has no access to it.
+- Livro de Reclamações Eletrónico: owner has chosen not to set it up yet (business just starting). Agent flagged on 2026-10-30 that it is likely a legal requirement for consumer-facing services in Portugal; owner to confirm with an accountant.
 
 ### Website gaps noted 2026-10-29 (site — for cro / seo-audit; not fixed)
 - Winterization and summer preparation are not mentioned on the site (site change requested 2026-10-30).
@@ -144,6 +150,7 @@ TO CONFIRM
 
 ## Changelog
 *Newest first. One line per revision: what changed and why.*
+- v7 (2026-10-30) — Recorded account status: no Google reviews yet, Business Profile exists but not on Maps, Search Console set up, no Livro de Reclamações yet.
 - v6 (2026-10-30) — Owner: summer preparation is included only with the year-round plan; otherwise quoted separately.
 - v5 (2026-10-30) — Owner added summer preparation (preparação para o verão) as a separate service.
 - v4 (2026-10-29) — Owner named the best-known direct competitors: Leiripiscinas, Fapiblue, Fapicentro.

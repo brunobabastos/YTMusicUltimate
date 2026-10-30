@@ -38,7 +38,7 @@ O que limita o SEO local não é técnico. É falta de **páginas**, de **presen
 | # | Problema | Impacto | Evidência | Correção |
 |---|----------|---------|-----------|----------|
 | P1 | O H1 não tem a pesquisa principal | Médio | H1: "Piscina pronta a usar, semana após semana." | Manter a frase e pôr por cima uma linha curta: "Manutenção de piscinas em Leiria" (ou passar o H1 para essa linha) |
-| P2 | A meta description tem 164 caracteres e pode ser cortada | Baixo | Ver o código | Proposta (153): "Manutenção, limpeza e tratamento de piscinas em Leiria, Marinha Grande, Batalha e Pombal. Relatório de cada visita no telemóvel. Peça orçamento." |
+| P2 | A meta description tem 164 caracteres e pode ser cortada | Baixo | Ver o código | Proposta (144 caracteres): "Manutenção, limpeza e tratamento de piscinas em Leiria, Marinha Grande, Batalha e Pombal. Relatório de cada visita no telemóvel. Peça orçamento." |
 | P3 | Pouco texto (~500 palavras), sem perguntas frequentes | Médio | Contagem no código | Acrescentar uma secção "Perguntas frequentes" com perguntas reais dos clientes (ver C2) |
 | P4 | Os dados estruturados podem ser mais completos | Baixo | Faltam `sameAs`, horário e `priceRange` | Acrescentar `sameAs` com as ligações ao Perfil de Empresa no Google e às redes sociais, quando existirem. Horário e gama de preços só se confirmar os valores |
 
