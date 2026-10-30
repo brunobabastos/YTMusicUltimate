@@ -1,6 +1,6 @@
 # Product Marketing Context — Piscina em Dia
 
-*Document version: v11 · Last updated: 2026-10-30*
+*Document version: v12 · Last updated: 2026-10-30*
 
 > Every marketing skill reads this file before it asks questions.
 > Only facts confirmed by the owner or quoted from piscinaemdia.pt are recorded here.
@@ -131,6 +131,12 @@ TO CONFIRM
 - Google Business Profile: exists (service-area business, customers served at home). Owner reports it does not show on Google Maps yet; verification status and service-area settings TO CONFIRM.
 - Google Search Console: set up by the owner. The agent has no access to it.
 - Instagram: @piscinaemdia.pt (owner). The agent has no access (no connector; instagram.com blocked in this environment); analysis only from screenshots the owner shares.
+  - Snapshot 2026-10-30 (screenshots): 9 posts, 7 followers, 4 following. Last 30 days (30/09–29/10): 923 views, 0 new followers, 15 pieces of content shared. Carousel posts get 5–37 views each; best: "Piscinas em dia, em Leiria e arredores" (37), "Piscina verde? Recupera-se" (30), "Cristalina o ano inteiro" (25).
+  - Post images are AI-generated (owner). Highlights "Trabalhos", "Resultados", "Construção" contain real jobs.
+  - One Reel (38 s, opens on a logo card "Peça orçamento pelo link na bio"): 84 views, 65 viewers, 6 s average watch time, 83.3% early drop-off, 80.5% of views from the Reels tab, 3 likes, 1 comment, 1 follower.
+  - Bio: "Manutenção de piscinas na região de Leiria. Limpeza, tratamento da água e acompanhamento semanal e quinzenal." Links: website + Google Maps profile. WhatsApp button active.
+- Video rules (owner): face never appears; only hands and the work shirt. Owner plans real cinematic videos of each visit, with editing by the agent (future).
+- Pool construction: not offered yet; owner says probably in the future. Do not advertise it until confirmed.
 - Livro de Reclamações Eletrónico: owner has chosen not to set it up yet (business just starting). Agent flagged on 2026-10-30 that it is likely a legal requirement for consumer-facing services in Portugal; owner to confirm with an accountant.
 
 ### Website status (site, checked 2026-10-30)
@@ -150,6 +156,7 @@ TO CONFIRM
 
 ## Changelog
 *Newest first. One line per revision: what changed and why.*
+- v12 (2026-10-30) — Instagram snapshot and Reel stats; no-face video rule; construction not offered yet.
 - v11 (2026-10-30) — Added Instagram handle @piscinaemdia.pt.
 - v10 (2026-10-30) — Green pool recovery details and timing from owner; before/after photos available.
 - v9 (2026-10-30) — Winterization details from owner; site moved to GitHub + Cloudflare Pages; privacy URL issue resolved.
