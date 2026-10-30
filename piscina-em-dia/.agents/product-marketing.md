@@ -161,6 +161,9 @@ TO CONFIRM
 - Fixed: phone/WhatsApp shown in static HTML and contact section; winterization and summer preparation listed; monthly average corrected; meta description shortened; "Manutenção de piscinas em Leiria" above the H1; real 404 page; privacy policy at /privacidade with a link under the quote form and in the footer.
 - Pages live (checked in repo 2026-10-30): / (home), /recuperacao-piscina-verde (with real before/after photos), /preparacao-piscina-inverno, /privacidade; all in sitemap.xml. Check the site repo before proposing new pages.
 - Site PRs (2026-10-30): #6 wording and #7 town pages (Marinha Grande, Batalha) merged by the owner. Open: #8 visitor origin appended to quote requests ("Origem: ..." in pedidos_orcamento.mensagem); #9 FAQ section + FAQPage schema + /llms.txt. Owner (2026-10-30): Pombal is no longer in the service area (outside 15 km); removed from the site (PR #10), the scheduled posts and the drafts. Service area: Leiria, Marinha Grande, Batalha and surroundings within 15 km. Owner skipped recurring-customer messages and referral programme for now.
+- Site PRs merged 2026-10-30: #8 lead origin, #9 FAQ + llms.txt, #10 Pombal removed, #11 shorter homepage (price strip, auto carousel for visit steps, no map). Open: #12 compact price section (form fields open on demand).
+- Owner (2026-10-30): already asking customers for Google reviews himself; removed "Amor" from the GBP service area; real photos/videos from visits will take a while.
+- Reminder: scheduled for 2026-11-08 to prepare posts after 11 Nov (nothing scheduled after that date).
 - Reminder: scheduled for 2027-05-03 to propose Google Ads for the summer season (GBP showed a 400 € new-advertiser credit offer).
 - Hosting: Cloudflare Pages project `piscinaemdia-site`, deployed from GitHub repo brunobabastos/piscinaemdia-site (branch main), since 2026-10-30. Changes go through pull requests; the old direct-upload project `piscinaemdia` (cristalys.pages.dev) no longer has the domain.
 
@@ -180,6 +183,7 @@ TO CONFIRM
 
 ## Changelog
 *Newest first. One line per revision: what changed and why.*
+- v31 (2026-10-30) — Homepage shortened, price section PR, reviews and GBP status, November reminder.
 - v30 (2026-10-30) — Pombal removed from the service area everywhere.
 - v29 (2026-10-30) — Lead origin and FAQ PRs; Google Ads reminder for May 2027.
 - v28 (2026-10-30) — Town pages PR and Pombal decision.
