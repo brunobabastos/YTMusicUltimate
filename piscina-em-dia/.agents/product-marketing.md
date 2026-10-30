@@ -128,7 +128,7 @@ TO CONFIRM
 **Current metrics:** TO CONFIRM
 
 ### Accounts and tools (owner, 2026-10-30)
-- Google Business Profile: exists (service-area business, customers served at home). Owner reports it does not show on Google Maps yet; verification status and service-area settings TO CONFIRM.
+- Google Business Profile (owner screenshot 2026-10-30): verified (blue check), name shown as "Piscinaemdia.pt", location shown as "Amor, Leiria", profile strength 80%, Sep–Oct 2026: 27 views and 50 searches. Hidden address / service-area settings, categories and hours TO CONFIRM. Improvement draft: drafts/2026-10-30-perfil-google.md.
 - Google Search Console: property sc-domain:piscinaemdia.pt. Agent read access since 2026-10-30 via service account piscinaemdia-leitura@piscinaemdia-pt.iam.gserviceaccount.com (Google Cloud project piscinaemdia-pt, permission "Restrita"); private key in env var GSC_PRIVATE_KEY (only in sessions started after 2026-10-30 10:40), allowed domains oauth2.googleapis.com and searchconsole.googleapis.com. Never print the key.
   - First read (2–29 Oct 2026): data only from 24/10; 1 click, 11 impressions, CTR 9.1%, average position 2.5, all Portugal, homepage only; one visible query ("inverno"). Sitemap read 30/10 01:27 UTC with 0 errors (3 URLs at the time).
 - Instagram: @piscinaemdia.pt (owner). The agent has no access (no connector; instagram.com blocked in this environment); analysis only from screenshots the owner shares.
@@ -177,6 +177,7 @@ TO CONFIRM
 
 ## Changelog
 *Newest first. One line per revision: what changed and why.*
+- v26 (2026-10-30) — Google Business Profile is verified; first metrics and improvement draft.
 - v25 (2026-10-30) — Always use the owner's test kit reference photos; reference index added.
 - v24 (2026-10-30) — Scheduled carousels updated with AI step photos and AI label.
 - v23 (2026-10-30) — Second owner review of AI images (vacuuming posture, hose fitting, extra arms).
