@@ -1,6 +1,6 @@
 # Product Marketing Context — Piscina em Dia
 
-*Document version: v17 · Last updated: 2026-10-30*
+*Document version: v18 · Last updated: 2026-10-30*
 
 > Every marketing skill reads this file before it asks questions.
 > Only facts confirmed by the owner or quoted from piscinaemdia.pt are recorded here.
@@ -141,6 +141,7 @@ TO CONFIRM
   - Metricool web tracker live on all public pages since 2026-10-30 (PR #5), skipped on client links #/p/<token>. Website connected on the Metricool side on 2026-10-30 11:13 (webData https://piscinaemdia.pt); data counts from then.
   - Cloudflare (connector "Estatísticas cloudflare", read via API; zone piscinaemdia.pt, Free plan; Web Analytics site created 2026-10-18). Web Analytics is sampled (counts in steps of 10): 240 visits from 18–30 Oct, all from the US with no referrer, mostly random paths such as /royceinvest or /sabrinacarpenter, i.e. automated scanners hitting the old soft-404. No measurable human traffic from Portugal yet. Zone-level request counts (30–2,600 requests/day) are mostly bots and must not be read as visitors.
 - Metricool brand connections (2026-10-30 11:30): website, Instagram, Facebook page (id 1426373007226156, created 2026-10-30) and Google Business Profile (accounts/103431194104832699121/locations/9427360612984119506). GBP metrics read 0 on day one (Google data lags a few days). Instagram showed a temporary action block on 2026-10-30 when linking the Facebook page from the Instagram app; Account Status otherwise healthy (eligible for recommendations); only the monetization "established presence" notice, irrelevant for the business.
+- Gemini API (2026-10-30): key in env var GEMINI_API_KEY (prefix "AQ"), allowed domain generativelanguage.googleapis.com. Listing models works; image models (gemini-3.1-flash-image "Nano Banana 2", gemini-3-pro-image, gemini-2.5-flash-image) return HTTP 429 "limit: 0 on Free Tier" until billing is enabled on the key's Google Cloud project. Owner's manual tests in the Gemini app worked well (realistic Leiria house, hands with OTO/Phenol Red test kit); avoid snow (not realistic for Leiria). AI images only as illustration, flagged isAiGenerated.
 - Video rules (owner): face never appears; only hands and the work shirt. Owner plans real cinematic videos of each visit, with editing by the agent (future).
 - Pool construction: not offered yet; owner says probably in the future. Do not advertise it until confirmed.
 - Livro de Reclamações Eletrónico: owner has chosen not to set it up yet (business just starting). Agent flagged on 2026-10-30 that it is likely a legal requirement for consumer-facing services in Portugal; owner to confirm with an accountant.
@@ -164,6 +165,7 @@ TO CONFIRM
 
 ## Changelog
 *Newest first. One line per revision: what changed and why.*
+- v18 (2026-10-30) — Gemini API key set up; image generation needs billing.
 - v17 (2026-10-30) — Facebook page and Google Business Profile connected in Metricool; Instagram temporary block noted.
 - v16 (2026-10-30) — Search Console connected (service account) and first data recorded.
 - v15 (2026-10-30) — Owner: agent does everything it can itself instead of asking.
