@@ -1,6 +1,6 @@
 # Product Marketing Context — Piscina em Dia
 
-*Document version: v15 · Last updated: 2026-10-30*
+*Document version: v16 · Last updated: 2026-10-30*
 
 > Every marketing skill reads this file before it asks questions.
 > Only facts confirmed by the owner or quoted from piscinaemdia.pt are recorded here.
@@ -129,7 +129,8 @@ TO CONFIRM
 
 ### Accounts and tools (owner, 2026-10-30)
 - Google Business Profile: exists (service-area business, customers served at home). Owner reports it does not show on Google Maps yet; verification status and service-area settings TO CONFIRM.
-- Google Search Console: set up by the owner. The agent has no access to it.
+- Google Search Console: property sc-domain:piscinaemdia.pt. Agent read access since 2026-10-30 via service account piscinaemdia-leitura@piscinaemdia-pt.iam.gserviceaccount.com (Google Cloud project piscinaemdia-pt, permission "Restrita"); private key in env var GSC_PRIVATE_KEY (only in sessions started after 2026-10-30 10:40), allowed domains oauth2.googleapis.com and searchconsole.googleapis.com. Never print the key.
+  - First read (2–29 Oct 2026): data only from 24/10; 1 click, 11 impressions, CTR 9.1%, average position 2.5, all Portugal, homepage only; one visible query ("inverno"). Sitemap read 30/10 01:27 UTC with 0 errors (3 URLs at the time).
 - Instagram: @piscinaemdia.pt (owner). The agent has no access (no connector; instagram.com blocked in this environment); analysis only from screenshots the owner shares.
   - Snapshot 2026-10-30 (screenshots): 9 posts, 7 followers, 4 following. Last 30 days (30/09–29/10): 923 views, 0 new followers, 15 pieces of content shared. Carousel posts get 5–37 views each; best: "Piscinas em dia, em Leiria e arredores" (37), "Piscina verde? Recupera-se" (30), "Cristalina o ano inteiro" (25).
   - Post images are AI-generated (owner). Highlights "Trabalhos", "Resultados", "Construção" contain real jobs.
@@ -162,6 +163,7 @@ TO CONFIRM
 
 ## Changelog
 *Newest first. One line per revision: what changed and why.*
+- v16 (2026-10-30) — Search Console connected (service account) and first data recorded.
 - v15 (2026-10-30) — Owner: agent does everything it can itself instead of asking.
 - v14 (2026-10-30) — Website analytics status: Metricool tracker live; Cloudflare data is bot traffic, no measurable human visits yet.
 - v13 (2026-10-30) — Metricool data: all content posted on one day, duplicate carousel, per-post reach.
