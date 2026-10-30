@@ -151,6 +151,7 @@ TO CONFIRM
   - More reference photos: referencias/kit-gotas-oto-phenol.jpg, referencias/tiras-4em1-frente.jpg, referencias/tiras-4em1-verso.jpg (product photos; for image generation only, never publish; generated images must not show brand names).
   - Winter covers: depend on the client; when there is one, it is usually a tarp (lona) held with elastic cords.
   - Reference photo of real skimmer, lid, vacuum head and floating dispenser: referencias/skimmer-e-acessorios-reais.png (owner photo, a client's pool; internal reference for image generation only, never publish). Passing it to Gemini as a reference image gives accurate accessories.
+- Metricool schedule (updated 2026-10-30 at owner's request): 2 Nov Reel (real video), 4 Nov green pool carousel (AI photos on the 5 step slides; real cover and before/after kept), 11 Nov winter carousel (AI photos on cover and 7 steps). Both carousels flagged isAiGenerated (Instagram "AI info"). Images are passed to Metricool as raw.githubusercontent.com links pinned to a commit (repo is public); Metricool copies them to its own storage.
 - Video rules (owner): face never appears; only hands and the work shirt. Owner plans real cinematic videos of each visit, with editing by the agent (future).
 - Pool construction: not offered yet; owner says probably in the future. Do not advertise it until confirmed.
 - Livro de Reclamações Eletrónico: owner has chosen not to set it up yet (business just starting). Agent flagged on 2026-10-30 that it is likely a legal requirement for consumer-facing services in Portugal; owner to confirm with an accountant.
@@ -175,6 +176,7 @@ TO CONFIRM
 
 ## Changelog
 *Newest first. One line per revision: what changed and why.*
+- v24 (2026-10-30) — Scheduled carousels updated with AI step photos and AI label.
 - v23 (2026-10-30) — Second owner review of AI images (vacuuming posture, hose fitting, extra arms).
 - v22 (2026-10-30) — Owner corrections on vacuum, waterline, machine room, control panel and test kits; kit reference photos.
 - v21 (2026-10-30) — Learning on AI image prompts for pool accessories.
