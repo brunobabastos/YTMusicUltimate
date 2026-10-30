@@ -1,6 +1,6 @@
 # Correções rápidas para o site — texto para colar no chat do site
 
-*Rascunho de 2026-10-30, a partir da auditoria SEO. Antes de colar, preencha os campos entre [PARÊNTESES RETOS] na política de privacidade.*
+*Rascunho de 2026-10-30, a partir da auditoria SEO. Dados da política de privacidade preenchidos pelo dono a 2026-10-30.*
 
 ```
 Preciso de 6 alterações no site piscinaemdia.pt. Não mexas em mais nada.
@@ -55,11 +55,11 @@ Depois de alterar, confirma:
 
 Política de privacidade
 
-Última atualização: [DATA]
+Última atualização: 30 de outubro de 2026
 
 Quem é o responsável pelos dados
-[NOME DO RESPONSÁVEL OU DA EMPRESA], NIF [NIF], [MORADA OU LOCALIDADE].
-Contacto para questões de privacidade: [EMAIL] ou +351 928 310 814.
+Piscina em Dia (piscinaemdia.pt), Leiria.
+Contacto para questões de privacidade: +351 928 310 814 (telefone ou WhatsApp).
 
 Que dados recolhemos
 - Pedido de orçamento: nome, telefone e localidade, e fotos da piscina se as enviar.
@@ -75,7 +75,7 @@ Fundamento
 Diligências pré-contratuais a seu pedido (orçamento), execução do contrato (clientes) e cumprimento de obrigações legais (faturação).
 
 Durante quanto tempo guardamos os dados
-- Pedidos de orçamento que não deram origem a serviço: [PRAZO, por exemplo 12 meses].
+- Pedidos de orçamento que não deram origem a serviço: 2 meses.
 - Clientes: enquanto durar o serviço e, depois disso, pelos prazos exigidos por lei, por exemplo para documentos de faturação.
 
 Quem trata os dados por nós
