@@ -1,6 +1,6 @@
 # Product Marketing Context — Piscina em Dia
 
-*Document version: v4 · Last updated: 2026-10-29*
+*Document version: v5 · Last updated: 2026-10-29*
 
 > Every marketing skill reads this file before it asks questions.
 > Only facts confirmed by the owner or quoted from piscinaemdia.pt are recorded here.
@@ -36,6 +36,7 @@ Site wording: "Valores indicativos. O preço final fica fechado depois de vermos
 | Water treatment | Part of every maintenance visit | owner, site |
 | Green pool recovery | Quoted separately | owner, site |
 | Winterization (invernagem) | Separate service, quoted separately | owner — **not yet on the site** |
+| Summer preparation (preparação da piscina para o verão) | Separate service; pricing TO CONFIRM | owner — **not yet on the site** |
 
 ### What every visit includes (site, "Em cada visita")
 1. Limpeza da superfície — folhas, insetos, sujidade e linha de água.
@@ -126,7 +127,7 @@ TO CONFIRM
 **Current metrics:** TO CONFIRM
 
 ### Website gaps noted 2026-10-29 (site — for cro / seo-audit; not fixed)
-- Winterization is not mentioned on the site.
+- Winterization and summer preparation are not mentioned on the site (site change requested 2026-10-30).
 - Phone and WhatsApp are not shown on the site: the contact fields in the page's CONFIG block are empty, and the "Contacto" menu link goes to the price/quote section.
 - For 30 a 60 m³, the page's static text says "80–105 € por mês" on average, while the price calculator computes 80–108 €.
 
@@ -143,6 +144,7 @@ TO CONFIRM
 
 ## Changelog
 *Newest first. One line per revision: what changed and why.*
+- v5 (2026-10-30) — Owner added summer preparation (preparação para o verão) as a separate service.
 - v4 (2026-10-29) — Owner named the best-known direct competitors: Leiripiscinas, Fapiblue, Fapicentro.
 - v3 (2026-10-29) — Owner confirmed target customers: private homes (main) and alojamento local properties.
 - v2 (2026-10-29) — Added plans, indicative prices, service area, visit routine, differentiators and voice examples from piscinaemdia.pt; owner confirmed winterization as a separately quoted service and the phone/WhatsApp number; logged website gaps.
