@@ -167,6 +167,7 @@ TO CONFIRM
 - Leads (owner, 2026-10-30): quote requests from the site form are saved in Supabase (pedidos_orcamento) and the owner sees them in his own admin panel (Orçamentos section); works fine. Each request includes "Origem: ..." (PR #8). WhatsApp and phone contacts are not tracked.
 - Reminder: scheduled for 2027-05-03 to propose Google Ads for the summer season (GBP showed a 400 € new-advertiser credit offer).
 - Site rule (owner, 2026-11-01): the agent may freely change the PUBLIC part of index.html (hero, prices/calculator, "Em cada visita", "Outros serviços", map, contact, footer, SEO, texts, animations). The CLIENT AREA must NOT be changed unless the owner asks: views #vEntrar and #vPainel; routes #/entrar and #/p/<token> (RX_TOKEN); the api object and Supabase calls (painel_cliente, reportar_problema, enviarFotos, pedidos_orcamento); htmlVisita, htmlFinanceiro, medidor() and related code. The owner's other chat maintains the client area.
+- Management app (2026-11-01): repo brunobabastos/piscinaemdia-gestao (private), handed over from the owner's other chat; the agent now maintains it through pull requests (owner merges). Single-page app index.html + sw.js, Cloudflare Pages project "BA Piscinas" (bapiscinas.pages.dev), deploy still MANUAL upload (not linked to the repo yet). Shares the Supabase project with the site. Read README.md and docs/CONTRATO-SITE-GESTAO.md before changing tables, functions or JSON fields; adding columns is safe, renaming/removing is not. Only the anon key is in code (checked 2026-11-01). The agent has no Supabase access: SQL changes are prepared as files and the owner runs them in the SQL Editor. Pending (owner): run supabase/00_exportar_estado_atual.sql and save results in supabase/estado-atual/; run supabase/05_pagamentos_parcial.sql if not done. Possible change on request: show partial payments to clients (add valor_pago to painel_cliente + adjust htmlFinanceiro in the site, released together). Customers must never see product quantities (calculo.linhas).
 - Hosting: Cloudflare Pages project `piscinaemdia-site`, deployed from GitHub repo brunobabastos/piscinaemdia-site (branch main), since 2026-10-30. Changes go through pull requests; the old direct-upload project `piscinaemdia` (cristalys.pages.dev) no longer has the domain.
 
 ## Agent Operating Boundaries
@@ -185,6 +186,7 @@ TO CONFIRM
 
 ## Changelog
 *Newest first. One line per revision: what changed and why.*
+- v36 (2026-11-01) — Management app repo handed over to the agent.
 - v35 (2026-11-01) — Rule: client area of the site is off-limits unless asked.
 - v34 (2026-10-30) — Leads: owner sees quote requests in his admin panel.
 - v33 (2026-10-30) — Winterization included in year-round plan; summer page; certification not on site.
