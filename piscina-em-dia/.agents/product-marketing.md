@@ -38,6 +38,9 @@ Site wording: "Valores indicativos. O preço final fica fechado depois de vermos
 | Winterization (invernagem) | Included at no extra cost in the year-round plan (ano todo) (owner, 2026-10-30); otherwise quoted separately. Includes: deep clean, pre-filter, filter backwash, skimmers, waterline, chemical balance, winterizing product; pump set to 2–4 h/day. Pools with or without a cover. | owner — page /preparacao-piscina-inverno (live) |
 | Summer preparation (preparação da piscina para o verão) | Included only for customers on the year-round plan (ano todo); otherwise quoted separately. Steps confirmed by the owner (2026-10-30): cover, deep clean, waterline, skimmers and pre-filter, backwash, water level, chemical balance, pump on summer hours. | owner — page /preparacao-piscina-verao (PR #13 open, 2026-10-30) |
 
+### Current offer (owner, 2026-11-02)
+- **Primeira visita grátis** for new customers who sign a maintenance plan of at least 3 months by 30/11/2026. Pools up to 60 m³, within 15 km of Leiria, one offer per household. Images in drafts/media/2026-11-02-oferta-primeira-visita/ (post 4:5, story 9:16, Google Maps 4:3). Always show the conditions with the offer; remove the offer from all channels after 30/11/2026.
+
 ### What every visit includes (site, "Em cada visita")
 1. Limpeza da superfície — folhas, insetos, sujidade e linha de água.
 2. Aspiração e escovagem — fundo aspirado, paredes escovadas para não ganharem algas.
@@ -186,6 +189,7 @@ TO CONFIRM
 
 ## Changelog
 *Newest first. One line per revision: what changed and why.*
+- v38 (2026-11-02) — First-visit-free offer until 30/11/2026.
 - v37 (2026-11-01) — Supabase security fixes and partial payments live.
 - v36 (2026-11-01) — Management app repo handed over to the agent.
 - v35 (2026-11-01) — Rule: client area of the site is off-limits unless asked.
