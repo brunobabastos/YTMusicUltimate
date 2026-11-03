@@ -1,6 +1,6 @@
 # Product Marketing Context — Piscina em Dia
 
-*Document version: v21 · Last updated: 2026-10-30*
+*Document version: v22 · Last updated: 2026-10-30*
 
 > Every marketing skill reads this file before it asks questions.
 > Only facts confirmed by the owner or quoted from piscinaemdia.pt are recorded here.
@@ -161,6 +161,7 @@ TO CONFIRM
 - Claude sessions (2026-11-03): 💬 Central session_015APGbFyEMRJsLE3Hq5PMYY (owner's entry point; send it a short summary of every novelty: publications, caption/plan changes, owner decisions, Metricool results); 🛠️ Site e Gestão session_015APGbDVzCw2Nv3ANoHSxvD (site and gestão app code, DB schema; send change requests there); 📣 Marketing session_015APGbFvAZaxRLwQ2UiyHt2 (this one); 💻 PC do Bruno session_015APGbDHtBdxyPZCz7KXhQp (only when the PC is on). Old Site session session_015APGbELw1eDLyYsk6Lx4Z9 is archived. Risky actions (publish, delete, spend, change accounts) still need the owner's confirmation.
 - Telegram quote-request alert: active in Supabase (trigger, Vault token and chat) and tested; only the merge of piscinaemdia-gestao PR #4 is left to the owner.
 - Supabase: read-only for marketing reports (quote counts, origin); any change goes through Site e Gestão.
+- Google Drive (2026-11-03): folder "Piscina em Dia — Fotos" (id 1Z23sd3B-QvJ6Txdre_kA0PGVtFURgob-) for real photos and videos of visits. Owner rule: access ONLY this folder (always search with parentId = '1Z23sd3B-QvJ6Txdre_kA0PGVtFURgob-'); never open, search or change anything else in the Drive; never delete or share files unless the owner asks. When new photos appear, tell the owner and propose how to use them.
 - Video rules (owner): face never appears; only hands and the work shirt. Owner plans real cinematic videos of each visit, with editing by the agent (future).
 - Pool construction: not offered yet; owner says probably in the future. Do not advertise it until confirmed.
 - Livro de Reclamações Eletrónico: owner has chosen not to set it up yet (business just starting). Agent flagged on 2026-10-30 that it is likely a legal requirement for consumer-facing services in Portugal; owner to confirm with an accountant.
@@ -195,6 +196,7 @@ TO CONFIRM
 
 ## Changelog
 *Newest first. One line per revision: what changed and why.*
+- v22 (2026-11-03) — Google Drive photos folder and access rule.
 - v21 (2026-11-03) — Session organisation (Central, Site e Gestão, Marketing, PC); Telegram quote alert active.
 - v20 (2026-11-03) — Telegram alerts connected; prospecting scope limited to alojamento local companies.
 - v19 (2026-11-03) — Synced with live site: winter and summer preparation both included in Ano todo; Pombal removed from service area. Sessions split: this one = marketing; session_015APGbELw1eDLyYsk6Lx4Z9 = site and gestão app (send site change requests there).
