@@ -1,6 +1,6 @@
 # Product Marketing Context — Piscina em Dia
 
-*Document version: v19 · Last updated: 2026-10-30*
+*Document version: v20 · Last updated: 2026-10-30*
 
 > Every marketing skill reads this file before it asks questions.
 > Only facts confirmed by the owner or quoted from piscinaemdia.pt are recorded here.
@@ -156,6 +156,8 @@ TO CONFIRM
   - Winter covers: depend on the client; when there is one, it is usually a tarp (lona) held with elastic cords.
   - Reference photo of real skimmer, lid, vacuum head and floating dispenser: referencias/skimmer-e-acessorios-reais.png (owner photo, a client's pool; internal reference for image generation only, never publish). Passing it to Gemini as a reference image gives accurate accessories.
 - Metricool schedule (updated 2026-10-30 at owner's request): 2 Nov Reel (real video), 4 Nov green pool carousel (AI photos on the 5 step slides; real cover and before/after kept), 11 Nov winter carousel (AI photos on cover and 7 steps). Both carousels flagged isAiGenerated (Instagram "AI info"). Images are passed to Metricool as raw.githubusercontent.com links pinned to a commit (repo is public); Metricool copies them to its own storage.
+- Telegram alerts (2026-11-03): bot @piscinaemdia_alertas_bot ("Piscina em Dia Alertas"); token in env var TELEGRAM_BOT_TOKEN (never print); owner chat_id 9222030134; allowed domain api.telegram.org. Test message delivered. Use for: new quote requests (site session implements server-side), replies from prospects, failed scheduled posts, new Google reviews.
+- Prospecting scope (owner, 2026-11-03): only alojamento local (no hotels, gyms, quintas). Cold email only to companies (AL operated by companies and AL management companies), with opt-out; never to private individuals (Lei 41/2004, RGPD). CRM = private claude.ai page with database. Emails prepared by the agent, sent by the owner from geral@piscinaemdia.pt.
 - Video rules (owner): face never appears; only hands and the work shirt. Owner plans real cinematic videos of each visit, with editing by the agent (future).
 - Pool construction: not offered yet; owner says probably in the future. Do not advertise it until confirmed.
 - Livro de Reclamações Eletrónico: owner has chosen not to set it up yet (business just starting). Agent flagged on 2026-10-30 that it is likely a legal requirement for consumer-facing services in Portugal; owner to confirm with an accountant.
@@ -190,6 +192,7 @@ TO CONFIRM
 
 ## Changelog
 *Newest first. One line per revision: what changed and why.*
+- v20 (2026-11-03) — Telegram alerts connected; prospecting scope limited to alojamento local companies.
 - v19 (2026-11-03) — Synced with live site: winter and summer preparation both included in Ano todo; Pombal removed from service area. Sessions split: this one = marketing; session_015APGbELw1eDLyYsk6Lx4Z9 = site and gestão app (send site change requests there).
 - v39 (2026-11-02) — Brand SEO plan and PR #21.
 - v38 (2026-11-02) — First-visit-free offer until 30/11/2026.
