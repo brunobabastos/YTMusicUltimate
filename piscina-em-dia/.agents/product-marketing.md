@@ -1,6 +1,6 @@
 # Product Marketing Context — Piscina em Dia
 
-*Document version: v20 · Last updated: 2026-10-30*
+*Document version: v21 · Last updated: 2026-10-30*
 
 > Every marketing skill reads this file before it asks questions.
 > Only facts confirmed by the owner or quoted from piscinaemdia.pt are recorded here.
@@ -158,6 +158,9 @@ TO CONFIRM
 - Metricool schedule (updated 2026-10-30 at owner's request): 2 Nov Reel (real video), 4 Nov green pool carousel (AI photos on the 5 step slides; real cover and before/after kept), 11 Nov winter carousel (AI photos on cover and 7 steps). Both carousels flagged isAiGenerated (Instagram "AI info"). Images are passed to Metricool as raw.githubusercontent.com links pinned to a commit (repo is public); Metricool copies them to its own storage.
 - Telegram alerts (2026-11-03): bot @piscinaemdia_alertas_bot ("Piscina em Dia Alertas"); token in env var TELEGRAM_BOT_TOKEN (never print); owner chat_id 9222030134; allowed domain api.telegram.org. Test message delivered. Use for: new quote requests (site session implements server-side), replies from prospects, failed scheduled posts, new Google reviews.
 - Prospecting scope (owner, 2026-11-03): only alojamento local (no hotels, gyms, quintas). Cold email only to companies (AL operated by companies and AL management companies), with opt-out; never to private individuals (Lei 41/2004, RGPD). CRM = private claude.ai page with database. Emails prepared by the agent, sent by the owner from geral@piscinaemdia.pt.
+- Claude sessions (2026-11-03): 💬 Central session_015APGbFyEMRJsLE3Hq5PMYY (owner's entry point; send it a short summary of every novelty: publications, caption/plan changes, owner decisions, Metricool results); 🛠️ Site e Gestão session_015APGbDVzCw2Nv3ANoHSxvD (site and gestão app code, DB schema; send change requests there); 📣 Marketing session_015APGbFvAZaxRLwQ2UiyHt2 (this one); 💻 PC do Bruno session_015APGbDHtBdxyPZCz7KXhQp (only when the PC is on). Old Site session session_015APGbELw1eDLyYsk6Lx4Z9 is archived. Risky actions (publish, delete, spend, change accounts) still need the owner's confirmation.
+- Telegram quote-request alert: active in Supabase (trigger, Vault token and chat) and tested; only the merge of piscinaemdia-gestao PR #4 is left to the owner.
+- Supabase: read-only for marketing reports (quote counts, origin); any change goes through Site e Gestão.
 - Video rules (owner): face never appears; only hands and the work shirt. Owner plans real cinematic videos of each visit, with editing by the agent (future).
 - Pool construction: not offered yet; owner says probably in the future. Do not advertise it until confirmed.
 - Livro de Reclamações Eletrónico: owner has chosen not to set it up yet (business just starting). Agent flagged on 2026-10-30 that it is likely a legal requirement for consumer-facing services in Portugal; owner to confirm with an accountant.
@@ -192,6 +195,7 @@ TO CONFIRM
 
 ## Changelog
 *Newest first. One line per revision: what changed and why.*
+- v21 (2026-11-03) — Session organisation (Central, Site e Gestão, Marketing, PC); Telegram quote alert active.
 - v20 (2026-11-03) — Telegram alerts connected; prospecting scope limited to alojamento local companies.
 - v19 (2026-11-03) — Synced with live site: winter and summer preparation both included in Ano todo; Pombal removed from service area. Sessions split: this one = marketing; session_015APGbELw1eDLyYsk6Lx4Z9 = site and gestão app (send site change requests there).
 - v39 (2026-11-02) — Brand SEO plan and PR #21.
