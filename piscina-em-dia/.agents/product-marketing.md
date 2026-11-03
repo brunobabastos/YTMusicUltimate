@@ -1,6 +1,6 @@
 # Product Marketing Context — Piscina em Dia
 
-*Document version: v18 · Last updated: 2026-10-30*
+*Document version: v19 · Last updated: 2026-10-30*
 
 > Every marketing skill reads this file before it asks questions.
 > Only facts confirmed by the owner or quoted from piscinaemdia.pt are recorded here.
@@ -190,6 +190,7 @@ TO CONFIRM
 
 ## Changelog
 *Newest first. One line per revision: what changed and why.*
+- v19 (2026-11-03) — Synced with live site: winter and summer preparation both included in Ano todo; Pombal removed from service area. Sessions split: this one = marketing; session_015APGbELw1eDLyYsk6Lx4Z9 = site and gestão app (send site change requests there).
 - v39 (2026-11-02) — Brand SEO plan and PR #21.
 - v38 (2026-11-02) — First-visit-free offer until 30/11/2026.
 - v37 (2026-11-01) — Supabase security fixes and partial payments live.
