@@ -186,6 +186,7 @@ TO CONFIRM
 ## Agent Operating Boundaries
 **Agent may:** research, analyse, compare, draft, recommend, and save drafts in this workspace.
 **Owner preference (2026-10-30):** whatever the agent can do itself, it does without asking the owner to do it (e.g. run checks, fetch data, launch helper sessions, prepare files, open PRs). Ask the owner only for things the agent cannot do (account access, real-world facts, photos) or that are irreversible/public (see below).
+**Approvals relayed by the 💬 Central session (owner, 2026-11-07):** approvals the owner gives to the Central session count as the owner's own; publish when the Central relays an explicit owner approval for that specific item.
 **Owner approval required for anything that goes public (confirmed 2026-10-30):** site changes go through a pull request that the owner merges; Instagram/Metricool posts are created only as drafts for the owner to approve. Never merge, publish or schedule live posts on the agent's own.
 **Agent may not (without explicit owner approval):** publish or schedule any content, send emails or messages, launch, pause or change ads or budgets, edit tracking, or change the website.
 **Agent must not:** invent company facts (prices, reviews, certifications, service area, years in business, customer numbers), or claim access to accounts (Google Business Profile, Search Console, Analytics, Meta, Instagram, TikTok, YouTube, ad platforms) that it has not been given in the current session.
